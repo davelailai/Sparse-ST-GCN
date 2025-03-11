@@ -2,7 +2,6 @@
 
 We build this project based on the OpenSource Project [PYSKL](https://github.com/kennymckormick/pyskl).
 
-This repo is the official implementation of [PoseConv3D](https://arxiv.org/abs/2104.13586) and [STGCN++](https://github.com/kennymckormick/pyskl/tree/main/configs/stgcn%2B%2B).
 
 ## install
  
