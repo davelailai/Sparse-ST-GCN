@@ -19,4 +19,8 @@ bash tools/dist_train.sh configs/stgcn/stgcn_pyskl_ntu60_xview_3dkp/j.py
 # For other models, replace the config with the corresponding models and replace the _base_ to _base_ = ['../STGCN_sparse.py']
 ```
 
+Please cite the paper: 
+```shell
+Xie, Jianyang, Yitian Zhao, Yanda Meng, He Zhao, Anh Nguyen, and Yalin Zheng. "Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?." arXiv preprint arXiv:2505.10679 (2025).
+```
 
